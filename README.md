@@ -1,19 +1,5 @@
 # act8_miscles
-
-A new Flutter project created with FlutLab - https://flutlab.io
-
-## Getting Started
-
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+![image](https://github.com/user-attachments/assets/f61df6dc-0373-456b-b508-bb92358e212e)
+![image](https://github.com/user-attachments/assets/6868ee0b-b090-4d88-9514-2d42e494960f)
+![image](https://github.com/user-attachments/assets/999ca288-37f6-4511-80d4-0a4eee8e841d)
+![image](https://github.com/user-attachments/assets/d32e8159-170e-4aaa-b0e4-818f80018f72)
